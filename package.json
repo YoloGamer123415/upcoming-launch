@@ -1,0 +1,13 @@
+{
+  "name": "upcoming-launch",
+  "version": "0.0.1",
+  "main": "cli.js",
+  "author": "YoloGamer123415",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.19.2",
+    "chalk": "^4.0.0",
+    "commander": "^5.1.0"
+  }
+}
